@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Honix8b banner" width="100%" />
+</p>
 
 <p align="center">
   Game Internals · Anti-Cheat Development · Software Protection
