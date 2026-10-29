@@ -1,6 +1,4 @@
 
-<h1 align="center">Honix8b</h1>
-
 <p align="center">
   Game Internals · Anti-Cheat Development · Software Protection
 </p>
