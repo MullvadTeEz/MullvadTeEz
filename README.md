@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Honix8b — Developer" width="100%" />
-</p>
 
 <h1 align="center">Honix8b</h1>
 
