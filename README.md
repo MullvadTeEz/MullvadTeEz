@@ -42,3 +42,8 @@ I'm constantly learning through hands-on development. Outside of coding, I enjoy
 ### connect
 
 [GitHub](https://github.com/MullvadTeEz) · [X / Twitter](https://twitter.com/HnxVms) · [YouTube](https://www.youtube.com/@hnx8b) · [Discord](https://discord.gg/6n6KXJnsP3) · [Email](mailto:Mulvadtez@gmail.com)
+---
+
+### activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MullvadTeEz&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&hide_border=true" alt="GitHub activity graph" width="100%" />
