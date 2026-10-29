@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./da0b1f969afd7e454317e41857b8607b.jpg" alt="Honix8b banner" width="100%" />
+  <img src="./b6e60f9f21fcfe95374ebab538fe6a22%20(1).jpg" alt="Honix8b banner" width="100%" />
 </p>
 
 <p align="center">
